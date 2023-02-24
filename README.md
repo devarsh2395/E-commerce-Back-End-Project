@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce-Back-End-Project
 
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
@@ -41,14 +41,14 @@ THEN I am able to successfully create, update, and delete data in my database
 To install dependencies, run the following command: 
 
 ```
-npm install
+npm installs
 ```
 
 ## Usage
 
 Below is the link to the walkthrough video which will demonstrates the functionality.
 
-[Link to the walkthrough video]()
+[Link to the walkthrough video](https://drive.google.com/file/d/1gsjIslpFG-cBW96tDlUj8dd26eMM5PpC/view)
 
 ## Contributing
 
